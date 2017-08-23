@@ -7,6 +7,6 @@ A wireframe shader based off of [this Nvidia white paper](http://developer.downl
 ![All Edges](./All_Edges.PNG)
 
 ## Only 3rd Triangle Edge
-![One Edge](./SelecedEdge.PNG)
+![One Edge](./Select_Edges.PNG)
 
 Problems: edges on most triangles are drawn from edge outward, so sometimes edges between triangles will not align for triangles of different orientations.
